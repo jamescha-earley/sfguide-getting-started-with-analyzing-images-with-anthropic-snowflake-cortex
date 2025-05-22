@@ -16,7 +16,7 @@ with st.sidebar:
     model = st.selectbox(
         "Select AI model",
         [
-            "claude-3-5-sonnet",
+            "claude-4-sonnet",
             "pixtral-large"
         ],
         help="Choose which AI model to use for image analysis"
